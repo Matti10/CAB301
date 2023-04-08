@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CAB301_Assign1/1.0.0": {
+        "runtime": {
+          "CAB301_Assign1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAB301_Assign1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
